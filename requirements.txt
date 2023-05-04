@@ -1,6 +1,4 @@
 plotly
-plotly.graph_objects
-plotly.express
 pnadas
 numpy
 scipy
