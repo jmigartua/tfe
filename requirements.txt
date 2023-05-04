@@ -1,4 +1,4 @@
 plotly
-pnadas
+pandas
 numpy
 scipy
